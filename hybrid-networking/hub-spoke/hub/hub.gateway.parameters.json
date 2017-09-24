@@ -1,4 +1,4 @@
-{
+4XCuaFiwgI842B5dK3YDn0H{
   "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
@@ -20,7 +20,7 @@
       "value": {
         "name": "ra-hub-vpn-cn",
         "connectionType": "Vnet2Vnet",
-        "sharedKey": "",
+        "sharedKey": "4XCuaFiwgI842B5dK3YDn0H",
         "virtualNetworkGateway1": {
           "name": "ra-hub-vpn-vgw",
           "resourceGroup": "ra-hub-rg"
