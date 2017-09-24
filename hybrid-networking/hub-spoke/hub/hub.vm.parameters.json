@@ -8,8 +8,8 @@
         "computerNamePrefix": "hubjumpbox",
         "size": "Standard_DS1_v2",
         "osType": "linux",
-        "adminUsername": "",
-        "adminPassword": "",
+        "adminUsername": "azureadmin",
+        "adminPassword": "MAxVJcfp8I1T",
         "osAuthenticationType": "password",
         "nics": [
           {
