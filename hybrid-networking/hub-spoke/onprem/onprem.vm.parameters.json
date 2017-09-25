@@ -8,8 +8,8 @@
         "computerNamePrefix": "onpremjumpbox",
         "size": "Standard_DS1_v2",
         "osType": "linux",
-        "adminUsername": "azureadmin",
-        "adminPassword": "GWWY31REpPfq",
+        "adminUsername": "",
+        "adminPassword": "",
         "osAuthenticationType": "password",
         "nics": [
           {
